@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingcalidate",
+        "uuid": 7248116,
+        "checksum": "kg2j1a"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
